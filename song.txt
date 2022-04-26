@@ -1,2 +1,4 @@
-my song text
+song text
 next text for my song
+
+added more text to work with gui
